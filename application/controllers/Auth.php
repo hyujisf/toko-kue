@@ -10,6 +10,7 @@ class Auth extends CI_Controller {
 		$this->load->library('form_validation');
 	}
 
+	
 	// untuk login
 	public function index()
 	{
